@@ -1,0 +1,16 @@
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\bin\Debug\CAFE-INIZIO.exe.config
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\bin\Debug\CAFE-INIZIO.exe
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\bin\Debug\CAFE-INIZIO.pdb
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.csproj.AssemblyReference.cache
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Costumer.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Employee.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Form1.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Main.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Order.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Product.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE_INIZIO.Properties.Resources.resources
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.csproj.GenerateResource.cache
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.csproj.CoreCompileInputs.cache
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.exe
+C:\Users\clint\OneDrive\Desktop\CAFE-INIZIO\obj\Debug\CAFE-INIZIO.pdb
